@@ -58,3 +58,4 @@ C:\Users\BlackSword\Documents\GitHub\SmartOnlineAccount\SmartOnlineAccount\Smart
 C:\Users\BlackSword\Documents\GitHub\SmartOnlineAccount\SmartOnlineAccount\SmartOnlineAccount\bin\zh-CN\Kendo.Mvc.resources.dll
 C:\Users\BlackSword\Documents\GitHub\SmartOnlineAccount\SmartOnlineAccount\SmartOnlineAccount\obj\Debug\SmartOnlineAccount.dll
 C:\Users\BlackSword\Documents\GitHub\SmartOnlineAccount\SmartOnlineAccount\SmartOnlineAccount\obj\Debug\SmartOnlineAccount.pdb
+C:\Users\BlackSword\Documents\GitHub\SmartOnlineAccount\SmartOnlineAccount\SmartOnlineAccount\obj\Debug\SmartOnlineAccount.csprojResolveAssemblyReference.cache
